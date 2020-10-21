@@ -36,7 +36,7 @@ To compile from sourcecode yourself, [click here for build instructions](https:/
 Everyone starts somewhere. If you're new or returning, you'll probably want to get in sync with the network so you can use your funds. Syncing from your own node is faster than syncing from a remote node. Here are some handy links to get you there as soon as possible.
 
 -   **Use checkpoints** - Checkpoints help your node sync faster, [Coming Soon](Coming) or [Coming Soon](http://checkpoints.turtlecoin.lol)
--   **Learn things** - Syncing will take time, to help pass that time [learning how to use TRTL](https://docs.turtlecoin.lol/)
+-   **Learn things** - Syncing will take time, to help pass that time [Coming Soon](https://docs.turtlecoin.lol/)
 -   **Backup your keys** - You can generate a wallet right inside the software, or use [this generator](https://protectcoin.lol/wallet/) that will make a [printable physical paper wallet](https://docs.turtlecoin.lol/guides/wallets/making-a-wallet) to put in a safe place for later.
 
 ### A note for contributing developers
