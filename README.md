@@ -18,26 +18,26 @@ We are a community of people across the world giving our time to make this softw
 
 For anyone else wishing to help the community or who needs answers to questions not covered in this document, join us in our [Discord Chat](http://chat.turtlecoin.lol) here.
 
-### TurtleCoin Build Branches
+### ProtectCoin Build Branches
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/turtlecoin/turtlecoin/Build/master) **Master**
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/turtlecoin/turtlecoin/Build/development) **Development**
 
-### Installing TurtleCoin
+### Installing ProtectCoin
 
-To use TurtleCoin, you'll need a way to connect to the network, and a wallet to hold your funds. This software includes those things for you, you can compile it yourself, or you can download the ones that we have compiled for you.
+To use ProtectCoin, you'll need a way to connect to the network, and a wallet to hold your funds. This software includes those things for you, you can compile it yourself, or you can download the ones that we have compiled for you.
 
-**Click here to download: http://latest.turtlecoin.lol**
+**Click here to download: Coming Soon**
 
-To compile from sourcecode yourself, [click here for build instructions](https://github.com/turtlecoin/turtlecoin/blob/development/COMPILE.md).
+To compile from sourcecode yourself, [click here for build instructions](https://github.com/Sab-Barsoom/ProtectCoin/blob/master/COMPILE.md).
 
 ### Getting Started Fast
 
 Everyone starts somewhere. If you're new or returning, you'll probably want to get in sync with the network so you can use your funds. Syncing from your own node is faster than syncing from a remote node. Here are some handy links to get you there as soon as possible.
 
--   **Use checkpoints** - Checkpoints help your node sync faster, [learn more](http://checkpoints.turtlecoin.lol/use.html) or [download here](http://checkpoints.turtlecoin.lol)
+-   **Use checkpoints** - Checkpoints help your node sync faster, [Coming Soon](Coming) or [Coming Soon](http://checkpoints.turtlecoin.lol)
 -   **Learn things** - Syncing will take time, to help pass that time [learning how to use TRTL](https://docs.turtlecoin.lol/)
--   **Backup your keys** - You can generate a wallet right inside the software, or use [this generator](https://turtlecoin.lol/wallet/) that will make a [printable physical paper wallet](https://docs.turtlecoin.lol/guides/wallets/making-a-wallet) to put in a safe place for later.
+-   **Backup your keys** - You can generate a wallet right inside the software, or use [this generator](https://protectcoin.lol/wallet/) that will make a [printable physical paper wallet](https://docs.turtlecoin.lol/guides/wallets/making-a-wallet) to put in a safe place for later.
 
 ### A note for contributing developers
 
